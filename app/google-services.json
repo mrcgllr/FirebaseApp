@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "885020360804",
+    "firebase_url": "https://instaklonfirebase-48026.firebaseio.com",
+    "project_id": "instaklonfirebase-48026",
+    "storage_bucket": "instaklonfirebase-48026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885020360804:android:383114c5c27090c2",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885020360804-kp080ucimk4791334bu4vmudbf2opqoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseapp",
+            "certificate_hash": "8902fa09f270ceb3ec13436eb75399f861d98b8a"
+          }
+        },
+        {
+          "client_id": "885020360804-usa1j8hs7iv9vci3ub4nn6v7c0rj0vh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRI-ZNEFgTb7nntr2bXUf0o271yvPS488"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885020360804-usa1j8hs7iv9vci3ub4nn6v7c0rj0vh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
